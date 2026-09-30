@@ -235,8 +235,8 @@ create table guarantor_otp_logs (
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/ARUNADEVI-0716/Blueprints_vibe.git
-cd Blueprints_vibe
+git clone https://github.com/Arulmozhi-2006/Blueprints_hackathon.git
+cd Blueprints_hackathon
 ```
 
 ### 2. ML Service
